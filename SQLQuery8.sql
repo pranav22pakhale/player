@@ -66,4 +66,3 @@ Create Table Patient
 	BirthDate DateTime Not Null
 );
 
-insert into Patient

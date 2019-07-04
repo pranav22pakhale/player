@@ -22,5 +22,3 @@ as(
 	
 )
 
-select *
-from Sales.SalesOrderHeader

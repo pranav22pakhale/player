@@ -11,7 +11,10 @@ select ct_id,orders, dense_rank() over (order by  orders desc) as RowNumberRank
 
 select *
 from nq
-where rk=	
+	
+=======
+where rk=2		
+>>>>>>> branch1
 
 		
 with new(ct_id,orders)
